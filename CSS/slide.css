@@ -326,7 +326,7 @@ a {
 .sectionone {
   position: fixed;
   background-color: var(--alt-color);
-  background-image: url("bg-cover.jpg");
+  background-image: url("/images/bg-cover.jpg");
   background-blend-mode: luminosity;
   background-position: center;
   background-size: cover;
