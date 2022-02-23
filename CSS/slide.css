@@ -72,7 +72,7 @@ a {
 .moontoggle {
   width: 30px;
   height: 30px;
-  background: url("full-moon.png");
+  background: url("images/full-moon.png");
   background-size: 25px;
   background-repeat: no-repeat;
   background-position: center;
@@ -96,7 +96,7 @@ a {
   position: fixed;
   top: 10px;
   right: 10px;
-  background: url("sunny.png");
+  background: url("images/sunny.png");
   background-size: 25px;
   background-repeat: no-repeat;
   background-position: center;
@@ -326,7 +326,7 @@ a {
 .sectionone {
   position: fixed;
   background-color: var(--alt-color);
-  background-image: url("bg-cover.jpg");
+  background-image: url("images/bg-cover.jpg");
   background-blend-mode: luminosity;
   background-position: center;
   background-size: cover;
@@ -344,7 +344,7 @@ a {
 }
 .light .sectionone {
   background: var(--gray-color);
-  background-image: url("bg-cover.jpg");
+  background-image: url("images/bg-cover.jpg");
   background-blend-mode: hard-light;
   background-position: center;
   background-size: cover;
@@ -1158,7 +1158,7 @@ font-size: 14px;
   }
 }
 .sectionfour .boxholder .boxone {
-  background: url("person1.jpg");
+  background: url("images/person1.jpg");
   background-position: center;
   background-size: cover;
   object-fit: cover;
@@ -1494,7 +1494,7 @@ background: var(--white-color);
 .sectionfive {
   position: fixed;
   background: var(--alt-color);
-  background-image: url("bg-cover.jpg");
+  background-image: url("images/bg-cover.jpg");
   background-blend-mode: luminosity;
   background-position: center;
   background-size: cover;
@@ -1513,7 +1513,7 @@ background: var(--white-color);
 }
 .light .sectionfive {
   background-color: var(--gray-color);
-  background-image: url("bg-cover.jpg");
+  background-image: url("images/bg-cover.jpg");
   background-blend-mode: hard-light;
   background-position: center;
   background-size: cover;
@@ -1910,7 +1910,7 @@ color: var(--alt-color);
   left: 0;
 }
 .preloader{
-  background: var(--white-color) url("spinner.gif") no-repeat center center;
+  background: var(--white-color) url("images/spinner.gif") no-repeat center center;
   background-size: 10%;
   position: fixed;
   height: 100vh;
