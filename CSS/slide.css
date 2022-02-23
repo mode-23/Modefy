@@ -1494,7 +1494,7 @@ background: var(--white-color);
 .sectionfive {
   position: fixed;
   background: var(--alt-color);
-  background-image: url("images/bg-cover.jpg");
+  background-image: url("../images/bg-cover.jpg");
   background-blend-mode: luminosity;
   background-position: center;
   background-size: cover;
