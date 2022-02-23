@@ -1158,7 +1158,7 @@ font-size: 14px;
   }
 }
 .sectionfour .boxholder .boxone {
-  background: url("images/person1.jpg");
+  background: url("../images/person1.jpg");
   background-position: center;
   background-size: cover;
   object-fit: cover;
