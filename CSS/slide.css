@@ -72,7 +72,7 @@ a {
 .moontoggle {
   width: 30px;
   height: 30px;
-  background: url("images/full-moon.png");
+  background: url("../images/full-moon.png");
   background-size: 25px;
   background-repeat: no-repeat;
   background-position: center;
@@ -96,7 +96,7 @@ a {
   position: fixed;
   top: 10px;
   right: 10px;
-  background: url("images/sunny.png");
+  background: url("../images/sunny.png");
   background-size: 25px;
   background-repeat: no-repeat;
   background-position: center;
@@ -326,7 +326,7 @@ a {
 .sectionone {
   position: fixed;
   background-color: var(--alt-color);
-  background-image: url("images/bg-cover.jpg");
+  background-image: url("../images/bg-cover.jpg");
   background-blend-mode: luminosity;
   background-position: center;
   background-size: cover;
@@ -344,7 +344,7 @@ a {
 }
 .light .sectionone {
   background: var(--gray-color);
-  background-image: url("images/bg-cover.jpg");
+  background-image: url("../images/bg-cover.jpg");
   background-blend-mode: hard-light;
   background-position: center;
   background-size: cover;
